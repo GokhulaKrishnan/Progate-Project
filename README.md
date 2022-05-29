@@ -1,1 +1,1 @@
-# Gokhulgetz.github.io
+# SampleWebsite.github.io
